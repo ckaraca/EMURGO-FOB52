@@ -1,0 +1,3 @@
+run = ["ghci"]
+
+entrypoint = "Main.hs"
